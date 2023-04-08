@@ -6,7 +6,7 @@ using System.Collections.Generic;
 
 
 
-namespace MosqAttack
+namespace MosquitoAttackLab
 {
     public class Game1 : Game
     {
